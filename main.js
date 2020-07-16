@@ -142,3 +142,13 @@ function speak(string) {
   synth.speak(u);
   debugger
 }
+
+//Welcome popup
+
+var person = prompt("Please enter your name");
+  
+  if (person == null || person == "") {
+    confirm(txt = "Bonjour " + "mon ami(e)" + "! Je m'appelle Sniffany 💖... je n'arrive pas à dormir  😪, tu es là??");
+  } else {
+    confirm(txt = "Bonjour " + person + "! Je m'appelle Sniffany 💖... je n'arrive pas à dormir  😪, tu es là?? Parle avec moi");
+  }
