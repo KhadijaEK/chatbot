@@ -1,7 +1,8 @@
 
 body { 
-	background:
-	linear-gradient(lightgrey to pink) !important; 
+	background: linear-gradient(to right, rgba(149, 147, 145, 1) 0%, 12.64880895614624%, 
+	rgba(214, 180, 170, 1) 25.29761791229248%, 43.60498487949371%, rgba(151, 151, 149, 1) 61.912351846694946%, 80.95617592334747%, rgba(163, 72, 86, 1) 100%)
+	!important; 
 }
 
 /* Welcome BUBBLE */
