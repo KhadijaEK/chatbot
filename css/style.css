@@ -1,14 +1,16 @@
 body {
-	font-weight: bold;
-	font-size: 20px;
-	font-family: "Courier New";
-	background: lightgrey;
-	background-blend-mode: overlay;
-	background-repeat: no-repeat;
-	background-size: cover;
-	background-position: auto;
-	line-height: 25px;
+	background: rgb(0, 200, 255); 
+	
 }
+
+
+span { 
+	color: rgb(239, 235, 255); 
+	padding: 5px;
+	border-radius: 3px;
+    border: 1px solid black;
+    display: inline-block;
+} 
 
 #input, #chat {
 	width : 100%;
@@ -21,10 +23,6 @@ body {
 	margin-top: 50px;
 }
 
-
-.row{
-	width : 100%;
-}
 
 #bot, #user{
 	padding: 20px 0px 20px;
