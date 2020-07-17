@@ -1,8 +1,16 @@
+<<<<<<< HEAD
 #welcomepage body {
 	background-color: lightgray;
 	font-weight: bold;
 	font-size: 20px;
 	font-family: Arial, Helvetica, sans-serif;	
+=======
+body {
+	background-color: lightgray;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: "Courier New";	
+>>>>>>> 2011ceebec874603119b8857fc71a894e4933710
 	line-height: 25px;
 }
 
@@ -47,9 +55,12 @@ background-color: pink;
 
 /* Welcome BUBBLE */
 
+<<<<<<< HEAD
 #welcomepage body{
 	background-color: lightgray;
 }
+=======
+>>>>>>> 2011ceebec874603119b8857fc71a894e4933710
 .comments{
 	height: 50%;
 	margin: 0 auto;
@@ -73,7 +84,11 @@ background-color: pink;
 }
 
 .bubble{
+<<<<<<< HEAD
 	background-color: pink;
+=======
+	background-color: rgb(107, 245, 169);
+>>>>>>> 2011ceebec874603119b8857fc71a894e4933710
 	border-radius: 30px;
 	color: #222;
 	padding: 20px;
@@ -87,7 +102,11 @@ background-color: pink;
 	width: 0;
 	height: 0;
 	border-top: 13px solid transparent;
+<<<<<<< HEAD
 	border-right: 26px solid pink;
+=======
+	border-right: 26px solid rgb(107, 245, 169);
+>>>>>>> 2011ceebec874603119b8857fc71a894e4933710
 	border-bottom: 23px solid transparent;
 	margin: 13px 0 0 -35px;
 	animation: pulse 0.6s ease-in;
@@ -111,7 +130,11 @@ background-color: pink;
 }
 
 #welcomepage .btn{
+<<<<<<< HEAD
 	background-color:#ee008e;
+=======
+	background-color: rgb(219, 40, 70);
+>>>>>>> 2011ceebec874603119b8857fc71a894e4933710
 	border-radius: 50px;
 	text-decoration: none;
 	color: white;
