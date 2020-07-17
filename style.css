@@ -1,8 +1,6 @@
 body {
-	background: rgb(0, 200, 255); 
-	
+	background: rgb(0, 200, 255); 	
 }
-
 
 span { 
 	color: rgb(239, 235, 255); 
@@ -35,14 +33,14 @@ background-color: pink;
 }
 
 #user-response{
-	background-color: lightblue;
-	text-align: right;
-	float : right;
+background-color: lightblue;
+text-align: right;
+float : right;
 
 }
 
 #bot-response, #user-response{
-	font-size: 25px;
-	border-radius: 12px;
+font-size: 25px;
+border-radius: 12px;
 
 }
