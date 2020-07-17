@@ -21,7 +21,7 @@ const trigger = [
 
 // These are bot responses, paired in order with the above 'trigger' phrases
 
-const reply = [ 
+const reply = [
   ["Hello!", "Bonjour!", "Ola chico!", "Wesh gros!","Kikou,lol"],
   ["Moyen...et toi?","Super et toi?","Génial, et toi","Je me sens trop mal et toi?"],
   ["Pas grand chose","Je vais aller dormir","Franchement, je ne sais pas","Je me touche"],
@@ -89,7 +89,7 @@ function output(input) {
     .replace(/t'/g, " ")
     .replace(/l'/g, " ")
 
-    
+
 if (compare(trigger, reply, text)) {
   product = compare(trigger, reply, text);
 } else if (text.match(/becode/gi)) {
@@ -119,12 +119,12 @@ function addChat(input, product) {
   const mainDiv = document.getElementById("main");
   let userDiv = document.createElement("div");
   userDiv.id = "user";
-  userDiv.innerHTML = `Habibi: <span id="user-response">${input}</span>`;
+  userDiv.innerHTML = `<span id="user-response">${input}</span>`;
   mainDiv.appendChild(userDiv);
 
   let botDiv = document.createElement("div");
   botDiv.id = "bot";
-  botDiv.innerHTML = `Sniffany: <span id="bot-response">${product}</span>`;
+  botDiv.innerHTML = `<span id="bot-response">${product}</span>`;
   mainDiv.appendChild(botDiv);
   speak(product);
 }
