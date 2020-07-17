@@ -4,25 +4,27 @@
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Document</title>
-        <link rel="stylesheet" href="/welcome.css">
         <link rel="stylesheet" href="css/bootstrap.min.css"/>
+        <link rel="stylesheet" href="css/welcome.css">
 
        
 
     </head>
-        <body id="welcomepage">
+        <body>
             <!--whistle sound-->
-            <audio id="audio" src="/whistle.mp3" controls autoplay onloadeddata="setHalfVolume()"></audio>
+            <audio id="audio" src="./whistle.mp3" controls autoplay onloadeddata="setHalfVolume()"></audio>
            
             <!--Welcome bubble-->
             <div class="comments position-fixed">
                 <div class="col-sm-12 col-md-4 comment bubble"> 
                     <img class="img-thumbnail rounded-circle"  src="sniff.jpg" alt="Sniffany profile photo">
-                    <p>Salut! Je m'appelle Sniffany 💖... <br> et je n'arrive pas à dormir  😪😪  Sniff... tu es là??
+                    <p>Salut! Je m'appelle Sniffany 💖... et je n'arrive pas à dormir  😪😪 <p>Sniff... tu es là??</p> 
                     </p>
                 </div>
                 <div class="comments text-center">
-                    <a class="btn position-relative text-center" href="./snifa.html" role="button">Ok! J'arrive</a>
+                    <button class="btn btn-primary position-relative text-center">
+						<a href="./snifa.html" role="button">Ok! J'arrive</a>
+					</button>
                 </div>
                 
             </div>
