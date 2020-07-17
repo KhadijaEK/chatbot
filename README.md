@@ -1,11 +1,13 @@
 # Sniffany Chatbot
 
 * Exercise: create a chatbot 
-* Repository: KhadijaEK/restaurant-css-framework
-* Period: 4 days (start on 25-06-2020)
+* Repository: [KhadijaEK/chatbot](https://github.com/KhadijaEK/chatbot)
+* Team: Elodie Goldberg, Thomas Depas, Khadija El Khadri
+* Period: 3 days (start on 17-07-2020)
 * Follow this link to visit the website Github page
 
-> Visit Github BXL-Swartz-3-21 for more details on the challenge
+> Visit [Github BXL-Swartz-3-21](https://github.com/becodeorg/BXL-Swartz-3-21/blob/master/05-Javascript/chatbot.md) for more details on the challenge
+
 ## Built with
 
 * Framework used: Bootstrap (currently v3.4.1) 
@@ -18,7 +20,8 @@ Design & concept inspiration:
 
 * [Make a simple chatbot with Javascript](https://dev.to/sylviapap/make-a-simple-chatbot-with-javascript-1gc)
 * [Banana chatbot](https://dmitrizzle.github.io/chat-bubble/examples/3-keyboard-input.html)
-* [Design](https://bootsnipp.com/snippets/nNg98 )
+
+
 
 ## Who or What is "Sniffany"?
 
@@ -30,7 +33,7 @@ Sniffany vous fait passer du mode "Sniff..." au mode "Je me sens déjà beaucoup
 
 Venez discuter avec elle et laissez-vous surprendre! 
 
-Sources
+### Sources
 
 All pictures:
 
