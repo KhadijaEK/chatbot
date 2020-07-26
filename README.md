@@ -1,7 +1,7 @@
 # Sniffany Chatbot
 
 * Exercise: create a chatbot 
-* Repository: [KhadijaEK/chatbot](https://github.com/KhadijaEK/chatbot)
+* Repository: [KhadijaEK/chatbot](https://khadijaek.github.io/chatbot/)
 * Team: Elodie Goldberg, Thomas Depas, Khadija El Khadri
 * Period: 3 days (start on 17-07-2020)
 * Follow this link to visit the website Github page
